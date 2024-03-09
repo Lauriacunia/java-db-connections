@@ -3,7 +3,7 @@ Spring Data proporciona una capa de abstracción sobre las API específicas de c
 
 **Métodos importantes de Spring Data:**
 
-**save():**Guarda una entidad en el repositorio.
+**save():** Guarda una entidad en el repositorio.
 **get():** Obtiene una entidad del repositorio por su identificador.
 **update():** Actualiza una entidad en el repositorio.
 **delete():** Elimina una entidad del repositorio.
