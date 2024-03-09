@@ -50,3 +50,13 @@ preparedStatement.executeUpdate();
 - _Statement_: Se utiliza para ejecutar consultas SQL.
 - _ResultSet_: Contiene los resultados de una consulta SQL.
 - _PreparedStatement_: Se utiliza para ejecutar consultas SQL con parámetros.
+
+JDBC también te permite:
+
+- Ejecutar sentencias DDL (Data Definition Language) como CREATE TABLE, ALTER TABLE y DROP TABLE.
+- Ejecutar sentencias DML (Data Manipulation Language) como INSERT, UPDATE y DELETE.
+- Ejecutar procedimientos almacenados.
+  Utilizar transacciones para garantizar la integridad de los datos.
+- Obtener metadatos de la base de datos, como la estructura de las tablas y los tipos de datos.
+
+En resumen, JDBC te proporciona una interfaz completa para interactuar con bases de datos relacionales desde Java.
