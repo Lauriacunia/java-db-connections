@@ -1,4 +1,5 @@
 **Hibernate** es un framework de mapeo objeto-relacional (ORM) que facilita el trabajo con bases de datos desde Java. Te permite abstraer la complejidad de las consultas SQL y trabajar con objetos Java.
+**Hibernate implementa la especificación JPA**.
 
 **Conceptos clave de Hibernate:**
 
